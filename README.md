@@ -1,0 +1,2 @@
+# HappyLuckyDraw
+Jetpack compose实现的转盘抽奖和刮刮卡抽奖两种模式
